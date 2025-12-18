@@ -1,1 +1,1 @@
-# geugot-co
+# template-full-banner-slider
